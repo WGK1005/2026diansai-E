@@ -1,6 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "C:\\Users\\WGK\\.kendryte\\k230_canmv_stubs\\ccb5ce5bc04880294c1235494fe9ce4a4cde6a13"
+        "C:\\Users\\WGK\\.kendryte\\k230_canmv_stubs\\64e227b547a56448b33a9cb9e8aa3772a0131b4b"
     ],
     "python.analysis.stubPath": "C:\\Users\\WGK\\.kendryte\\k230_canmv_pylance\\c242b2f5b68f2aec\\typings",
     "python.analysis.diagnosticSeverityOverrides": {
